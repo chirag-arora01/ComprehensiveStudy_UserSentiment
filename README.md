@@ -15,24 +15,34 @@ Import both the python files to jupyter notebook
 
 Install the following libraries:
 
-Library	Command
+Library	---> Command
 
-sklearn	pip3 install -U scikit-learn
+sklearn	---> pip3 install -U scikit-learn
 
-imblearn	pip3 install imblearn
+imblearn --->	pip3 install imblearn
 
-pandas	pip3 install pandas
+pandas	---> pip3 install pandas
 
-tqdm	pip3 install tqdm
-nltk	pip3 install --user -U nltk
-seaborn	pip3 install seaborn
-textblob	pip3 install -U textblob
-matplotlib	pip3 install matplotlib
-spacy	pip install -U pip3 setuptools wheel , pip install -U spacy
-keras	pip3 install tensorflow
-scipy	pip3 install --user scipy
-gensim	pip3 install gensim
-worldcloud	pip3 install wordcloud
+tqdm --->	pip3 install tqdm
+
+nltk	---> pip3 install --user -U nltk
+
+seaborn	---> pip3 install seaborn
+
+textblob	---> pip3 install -U textblob
+
+matplotlib	---> pip3 install matplotlib
+
+spacy	---> pip3 install -U pip3 setuptools wheel , pip3 install -U spacy
+
+keras	---> pip3 install tensorflow
+
+scipy	---> pip3 install --user scipy
+
+gensim	---> pip3 install gensim
+
+worldcloud	---> pip3 install wordcloud
+
 Import Yelp_PredictSentiment.py file in Jupyter Notebook and click on Cell -> Run All
 
 Import Yelp_SentimentPolarity.py file in Jupyter Notebook and click on Cell -> Run All
