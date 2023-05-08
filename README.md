@@ -16,9 +16,13 @@ Import both the python files to jupyter notebook
 Install the following libraries:
 
 Library	Command
+
 sklearn	pip3 install -U scikit-learn
+
 imblearn	pip3 install imblearn
+
 pandas	pip3 install pandas
+
 tqdm	pip3 install tqdm
 nltk	pip3 install --user -U nltk
 seaborn	pip3 install seaborn
