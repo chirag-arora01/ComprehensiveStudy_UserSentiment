@@ -8,7 +8,7 @@ Install Jupyter notebook using the command "pip3 install jupyterlab"
 
 Download "yelp_academic_dataset_business.json" and "yelp_academic_dataset_review.json" dataset from the link https://www.kaggle.com/yelp-dataset/yelp-dataset
 
-Download "Yelp_PredictSentiment.py" and "Yelp_SentimentPolarity.py " from the git repo https://github.com/chirag-arora01/ComprehensiveStudy_UserSentiment
+Download "Yelp_PredictSentiment.py" and "Yelp_sentiment_polarity.py " from the git repo https://github.com/chirag-arora01/ComprehensiveStudy_UserSentiment
 
 (Sample files of both the dataset available here: https://github.com/chirag-arora01/ComprehensiveStudy_UserSentiment/blob/main-branch/yelp_business.json, https://github.com/chirag-arora01/ComprehensiveStudy_UserSentiment/blob/main-branch/yelp_review.json)
 
