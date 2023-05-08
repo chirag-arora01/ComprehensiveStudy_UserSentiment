@@ -162,13 +162,6 @@ def get_likes_dislikes_words(review_txt):
     return words
 
 
-# In[25]:
-# Remove the block
-def divide(dataset, test_size):
-    df_train, df_test = train_test_split(dataset[['text','labels']],test_size=test_size)
-    return df_train
-
-
 # In[50]:
 # Calculate Polarity
 def get_polarity(df):
@@ -225,7 +218,7 @@ cuisine_run = ['Japanese','Chinese', 'Thai',
                 'French', 'Vietnamese', 'Greek', 'Indian']
 
 for cuisine_type in cuisine_run:
-    training_data = divide(get_cuisine_review(cuisine_type), 0.7)
+    training_data = get_cuisine_review(cuisine_type)
     polarity_score = get_polarity(training_data)
     ps = get_top_words(polarity_score, 'positive')
     ng = get_top_words(polarity_score,'negative')
