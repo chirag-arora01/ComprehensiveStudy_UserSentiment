@@ -1,4 +1,5 @@
-# ComprehensiveStudy_UserSentiment
+# Mining User Sentiment from Yelp Reviews: A Natural Language Processing Study
+
 Analyzing User Feedback on Yelp Reviews: A Natural Language Processing and Data Mining Approach
 
 Steps to run the project:
