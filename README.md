@@ -10,7 +10,7 @@ Download "yelp_academic_dataset_business.json" and "yelp_academic_dataset_review
 
 Download "Yelp_PredictSentiment.py" and "Yelp_SentimentPolarity.py " from the git repo https://github.com/chirag-arora01/ComprehensiveStudy_UserSentiment
 
-(Sample files of both the dataset available here: https://github.com/chirag-arora01/ComprehensiveStudy_UserSentiment/blob/main/yelp_business.json, https://github.com/chirag-arora01/ComprehensiveStudy_UserSentiment/blob/main/yelp_review.json)
+(Sample files of both the dataset available here: https://github.com/chirag-arora01/ComprehensiveStudy_UserSentiment/blob/main-branch/yelp_business.json, https://github.com/chirag-arora01/ComprehensiveStudy_UserSentiment/blob/main/yelp_review.json)
 
 Import both the python files to jupyter notebook
 
